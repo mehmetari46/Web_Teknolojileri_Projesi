@@ -1,0 +1,44 @@
+.resimslider{
+    height: 500px;
+}
+body{
+    padding-top: 70px;
+    font-family: 'Raleway', sans-serif;
+}
+nav{
+    height: 70px;
+}
+.hakkımda{
+    background-color: #f2f2f2;
+}
+.igri{
+    color: #343a40;
+    position: relative;
+    font-size: 40px;
+    top: -55px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+.ayraç{
+    border: none;
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.ibeyaz{
+    color: #343a40;
+    position: relative;
+    font-size: 40px;
+    top: -55px;
+    border: 10px solid white;
+    background-color: white;
+}
+.figure:hover{
+    opacity: 0.8;
+}
+footer{
+    height: 70px;
+}
+.beyaz{
+    background-color: white;
+}
