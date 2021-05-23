@@ -28,10 +28,10 @@
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
-          <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+          <div class="collapse navbar-collapse justify-content-end bg-dark" id="navbarNavDropdown">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="anasayfa.html">Anasayfa</a>
+                <a class="nav-link active" aria-current="page" href="index.html">Anasayfa</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="ozgecmisim.html">Özgeçmişim</a>
@@ -59,7 +59,6 @@
     </nav>
     <!-- menü bitiş-->
     <!--giriş ekranı başlangıç-->
-    <br><br><br>
     <section class="p-5 text-center hakkımda">
         <div class="container">
           <h1 class="mb-5 font-weight-bold">Giriş Ekranı</h1>
@@ -78,12 +77,11 @@
            </div>
            <br>
            <button type="submit" class="btn btn-dark">Giriş</button>
-           <br>
+           <br><br>
           </form>
           <hr class="ayraç"><i class="fas fa-ice-cream igri"></i>
         </div>
     </section>
-    <br><br>
     <!--giriş ekranı bitiş-->
 
     <!-- Optional JavaScript; choose one of the two! -->
